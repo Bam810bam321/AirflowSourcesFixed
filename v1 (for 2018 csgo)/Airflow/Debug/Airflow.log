@@ -1,0 +1,71 @@
+﻿  imgui.cpp
+  global_context.cpp
+  hooks.cpp
+  client.cpp
+  client_mode.cpp
+  convars.cpp
+  directx.cpp
+  engine.cpp
+  material_system.cpp
+  netvar_proxies.cpp
+  player_hook.cpp
+  prediction.cpp
+  studio_render.cpp
+  surface.cpp
+  trace.cpp
+  vgui_panel.cpp
+  view_render.cpp
+  wnd_proc.cpp
+  engine_trace.cpp
+  game_functions.cpp
+  c_animstate.cpp
+  entity.cpp
+  key_states.cpp
+  math.cpp
+  netvar_parser.cpp
+  render.cpp
+  threads.cpp
+  dllmain.cpp
+  anti_aim.cpp
+  exploits.cpp
+  fake_lag.cpp
+  config_system.cpp
+  config_vars.cpp
+  movement.cpp
+  utils.cpp
+  world_modulation.cpp
+  features.cpp
+  listener_entity.cpp
+  listener_event.cpp
+  menu.cpp
+  menu_indicators.cpp
+  menu_tabs.cpp
+  snow.cpp
+  animfix.cpp
+  autowall.cpp
+  engine_prediction.cpp
+  local_animfix.cpp
+  missed_shot_handler.cpp
+  rage_tools.cpp
+  ragebot.cpp
+  setup_bones_manager.cpp
+  skins.cpp
+  chams.cpp
+  esp_player.cpp
+  esp_store.cpp
+  esp_weapon.cpp
+  event_logger.cpp
+  event_visuals.cpp
+  glow.cpp
+  grenade_warning.cpp
+  local_player_visuals.cpp
+  visuals.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmtd.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+minhook_lib.lib(buffer.obj) : warning LNK4099: PDB '' was not found with 'minhook_lib.lib(buffer.obj)' or at ''; linking object as if no debug info
+minhook_lib.lib(hde32.obj) : warning LNK4099: PDB '' was not found with 'minhook_lib.lib(hde32.obj)' or at ''; linking object as if no debug info
+minhook_lib.lib(hook.obj) : warning LNK4099: PDB '' was not found with 'minhook_lib.lib(hook.obj)' or at ''; linking object as if no debug info
+minhook_lib.lib(trampoline.obj) : warning LNK4099: PDB '' was not found with 'minhook_lib.lib(trampoline.obj)' or at ''; linking object as if no debug info
+  Airflow.vcxproj -> C:\Users\Bammy\Desktop\AirflowSourcesFixed\v1 (for 2018 csgo)\Debug\csgo-legacy-debug.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
