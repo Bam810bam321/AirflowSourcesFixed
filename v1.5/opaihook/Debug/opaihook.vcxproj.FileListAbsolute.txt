@@ -1,0 +1,5 @@
+C:\Users\Bammy\Desktop\AirflowSourcesFixed\v1.5\Bins\PolyHook_2.dll
+C:\Users\Bammy\Desktop\AirflowSourcesFixed\v1.5\Bins\Zydis.dll
+C:\Users\Bammy\Desktop\AirflowSourcesFixed\v1.5\Bins\asmtk.dll
+C:\Users\Bammy\Desktop\AirflowSourcesFixed\v1.5\Bins\asmjit.dll
+C:\Users\Bammy\Desktop\AirflowSourcesFixed\v1.5\opaihook\Debug\opaihook.vcxproj.Up2Date

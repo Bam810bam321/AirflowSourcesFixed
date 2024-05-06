@@ -1,0 +1,111 @@
+﻿  animations.cpp
+  anti_aim.cpp
+  bullet_tracers.cpp
+  buy_bot.cpp
+  bytesarray.cpp
+  chams.cpp
+  checksum_crc32.cpp
+  clantag.cpp
+  cmd_shift.cpp
+  convars.cpp
+  detour_hooks.cpp
+  engine_prediction.cpp
+  entities.cpp
+  esp.cpp
+  esp_object_render.cpp
+  eventlistener.cpp
+  event_logs.cpp
+  exploits.cpp
+  fake_lag.cpp
+  features.cpp
+  fov_and_view.cpp
+  game_movement.cpp
+  globals.cpp
+  dllmain.cpp
+  glow.cpp
+  grenade_prediction.cpp
+  hooks.cpp
+  hud_hacks.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_freetype.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  interfaces.cpp
+  jsoncpp.cpp
+  key_states.cpp
+  lagcomp.cpp
+  config_system.cpp
+  config_vars.cpp
+  legacy_str.cpp
+  button.cpp
+  checkbox.cpp
+  colorpicker.cpp
+  combobox.cpp
+  keybind.cpp
+  listbox.cpp
+  slider.cpp
+  textbox.cpp
+  menu.cpp
+  menu_indicators.cpp
+  menu_tabs.cpp
+  snow.cpp
+  main_utils.cpp
+  math.cpp
+  md5_pseudo_random.cpp
+  memory.cpp
+  misc_structs.cpp
+  modules.cpp
+  movement.cpp
+  netvars.cpp
+  offsets.cpp
+  entlistener.cpp
+  penetration.cpp
+  post_processing.cpp
+  predfix.cpp
+  ragebot.cpp
+  remove_projectiles.cpp
+  render.cpp
+  resolver.cpp
+  sdk_misc.cpp
+  server_bones.cpp
+  skins.cpp
+  spoofers.cpp
+  structs.cpp
+  thirdperson.cpp
+  threaded_animstate.cpp
+  threads.cpp
+  vgui_panel.cpp
+  vmt_hooks.cpp
+  world_modulation.cpp
+  xorpointer.cpp
+  xorstr.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+freetype_debug.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftsynth.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftsynth.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype_debug.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype_debug.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+  opaihook.vcxproj -> C:\Users\Bammy\Desktop\AirflowSourcesFixed\v1.5\Bins\csgo-legacy_debug.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
