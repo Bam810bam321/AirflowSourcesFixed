@@ -887,7 +887,7 @@ void c_menu::draw_ui_items( )
           begin_child( xor_c( "Other" ) )
           {
             this->combo( xor_c( "Skybox" ), &g_cfg.misc.skybox, skyboxes, IM_ARRAYSIZE( skyboxes ) );
-            if( g_cfg.misc.skybox == 23 )
+            if( g_cfg.misc.skybox == 21 )
               this->input_text( xor_c( "Sky name" ), g_cfg.misc.skybox_name, 128 );
 
             this->slider_int( xor_c( "Props alpha" ), &g_cfg.misc.prop_alpha, 0, 100, xor_c( "%d%%" ) );
